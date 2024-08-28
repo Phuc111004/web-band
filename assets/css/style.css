@@ -130,7 +130,7 @@ html {
 #slider {
   margin-top: 46px;
   padding-top: 50%;
-  background-image: url("/web_the_band/assets/img/chicago.jpg");
+  background-image: url("../img/chicago.jpg");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
